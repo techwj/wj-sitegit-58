@@ -1,0 +1,88 @@
+# Validation Report - beach-resort-guide
+
+Generated: 2026-06-02T19:22:14.874593
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Beach Resort Guide
+- ✓ Article word count OK: Beginner Beach Resort Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Beach Resort Guide
+- ✓ Article word count OK: Beginner Beach Resort Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Beach Resort Guide
+- ✓ Article word count OK: Beginner Beach Resort Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Beach Resort Guide
+- ✓ Article word count OK: Common Mistakes in Beginner Beach Resort Guide
+- ✓ Article word count OK: Beginner Beach Resort Guide for Beginners
+- ✓ Article word count OK: Advanced Beginner Beach Resort Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Beach Resort Guide
+- ✓ Article word count OK: Advanced Beach Resort Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Beach Resort Guide
+- ✓ Article word count OK: Advanced Beach Resort Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Beach Resort Guide
+- ✓ Article word count OK: Advanced Beach Resort Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Beach Resort Guide
+- ✓ Article word count OK: Common Mistakes in Advanced Beach Resort Guide
+- ✓ Article word count OK: Advanced Beach Resort Guide for Beginners
+- ✓ Article word count OK: Advanced Advanced Beach Resort Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Beach Resort Guide Tips
+- ✓ Article word count OK: Beach Resort Guide Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beach Resort Guide Tips
+- ✓ Article word count OK: Beach Resort Guide Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Beach Resort Guide Tips
+- ✓ Article word count OK: Beach Resort Guide Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Beach Resort Guide Tips
+- ✓ Article word count OK: Common Mistakes in Beach Resort Guide Tips
+- ✓ Article word count OK: Beach Resort Guide Tips for Beginners
+- ✓ Article word count OK: Advanced Beach Resort Guide Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Beach Resort Guide History
+- ✓ Article word count OK: Beach Resort Guide History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beach Resort Guide History
+- ✓ Article word count OK: Beach Resort Guide History Tips and Best Practices
+- ✓ Article word count OK: The History of Beach Resort Guide History
+- ✓ Article word count OK: Beach Resort Guide History in 2026: Current Trends
+- ✓ Article word count OK: Future of Beach Resort Guide History
+- ✓ Article word count OK: Common Mistakes in Beach Resort Guide History
+- ✓ Article word count OK: Beach Resort Guide History for Beginners
+- ✓ Article word count OK: Advanced Beach Resort Guide History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Beach Resort Guide
+- ✓ Article word count OK: Trending Beach Resort Guide: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Beach Resort Guide
+- ✓ Article word count OK: Trending Beach Resort Guide Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Beach Resort Guide
+- ✓ Article word count OK: Trending Beach Resort Guide in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Beach Resort Guide
+- ✓ Article word count OK: Common Mistakes in Trending Beach Resort Guide
+- ✓ Article word count OK: Trending Beach Resort Guide for Beginners
+- ✓ Article word count OK: Advanced Trending Beach Resort Guide Techniques
+- ✓ Article word count OK: The Ultimate Guide to Beach Resort Guide Tutorials
+- ✓ Article word count OK: Beach Resort Guide Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beach Resort Guide Tutorials
+- ✓ Article word count OK: Beach Resort Guide Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Beach Resort Guide Tutorials
+- ✓ Article word count OK: Beach Resort Guide Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Beach Resort Guide Tutorials
+- ✓ Article word count OK: Common Mistakes in Beach Resort Guide Tutorials
+- ✓ Article word count OK: Beach Resort Guide Tutorials for Beginners
+- ✓ Article word count OK: Advanced Beach Resort Guide Tutorials Techniques
+- ✓ Ad configuration validated

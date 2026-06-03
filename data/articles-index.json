@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-beach-resort-guide",
+      "title": "The Ultimate Guide to Beginner Beach Resort Guide",
+      "category": "beginner-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.814249",
+      "image": {
+        "id": "66a336c006931f85e9c6763ec99868207301ff2cf6909aea7d255690569d39e5",
+        "url": "https://picsum.photos/858/498?random=784",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Beach Resort Guide",
+        "width": 858,
+        "height": 498
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-beach-resort-guide-everything-you-need-to-know",
+      "title": "Beginner Beach Resort Guide: Everything You Need to Know",
+      "category": "beginner-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.814379",
+      "image": {
+        "id": "588dd059b3f02a7ab933150d7e061890735891be42f7ab3404a0fd5979d73e41",
+        "url": "https://picsum.photos/1016/455?random=12",
+        "alt": "Featured image for: Beginner Beach Resort Guide: Everything You Need to Know",
+        "width": 1016,
+        "height": 455
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-beach-resort-guide",
+      "title": "Understanding Beginner Beach Resort Guide",
+      "category": "beginner-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.814458",
+      "image": {
+        "id": "e1b3866d5c2b430675565a246731df0efd4316bff1e7f9d4a69c914b2dc35661",
+        "url": "https://picsum.photos/931/588?random=205",
+        "alt": "Featured image for: Understanding Beginner Beach Resort Guide",
+        "width": 931,
+        "height": 588
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-beach-resort-guide-tips-and-best-practices",
+      "title": "Beginner Beach Resort Guide Tips and Best Practices",
+      "category": "beginner-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.814531",
+      "image": {
+        "id": "4142d0cf7515839669a236f3a38d0f5755568e0a381203dd6f2737c0f7ebdf4c",
+        "url": "https://picsum.photos/907/501?random=436",
+        "alt": "Featured image for: Beginner Beach Resort Guide Tips and Best Practices",
+        "width": 907,
+        "height": 501
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-beach-resort-guide",
+      "title": "The History of Beginner Beach Resort Guide",
+      "category": "beginner-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.814608",
+      "image": {
+        "id": "e04615c5f00f6135bfcb6c7792ef45c2ae0cb293335f226007d52046c7facb54",
+        "url": "https://picsum.photos/1115/560?random=6",
+        "alt": "Featured image for: The History of Beginner Beach Resort Guide",
+        "width": 1115,
+        "height": 560
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-beach-resort-guide-in-2026-current-trends",
+      "title": "Beginner Beach Resort Guide in 2026: Current Trends",
+      "category": "beginner-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.814677",
+      "image": {
+        "id": "588dd059b3f02a7ab933150d7e061890735891be42f7ab3404a0fd5979d73e41",
+        "url": "https://picsum.photos/1016/455?random=12",
+        "alt": "Featured image for: Beginner Beach Resort Guide in 2026: Current Trends",
+        "width": 1016,
+        "height": 455
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-beach-resort-guide",
+      "title": "Future of Beginner Beach Resort Guide",
+      "category": "beginner-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.814745",
+      "image": {
+        "id": "66a336c006931f85e9c6763ec99868207301ff2cf6909aea7d255690569d39e5",
+        "url": "https://picsum.photos/858/498?random=784",
+        "alt": "Featured image for: Future of Beginner Beach Resort Guide",
+        "width": 858,
+        "height": 498
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-beach-resort-guide",
+      "title": "Common Mistakes in Beginner Beach Resort Guide",
+      "category": "beginner-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.814812",
+      "image": {
+        "id": "588dd059b3f02a7ab933150d7e061890735891be42f7ab3404a0fd5979d73e41",
+        "url": "https://picsum.photos/1016/455?random=12",
+        "alt": "Featured image for: Common Mistakes in Beginner Beach Resort Guide",
+        "width": 1016,
+        "height": 455
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-beach-resort-guide-for-beginners",
+      "title": "Beginner Beach Resort Guide for Beginners",
+      "category": "beginner-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.814887",
+      "image": {
+        "id": "e1b3866d5c2b430675565a246731df0efd4316bff1e7f9d4a69c914b2dc35661",
+        "url": "https://picsum.photos/931/588?random=205",
+        "alt": "Featured image for: Beginner Beach Resort Guide for Beginners",
+        "width": 931,
+        "height": 588
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-beach-resort-guide-techniques",
+      "title": "Advanced Beginner Beach Resort Guide Techniques",
+      "category": "beginner-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.814954",
+      "image": {
+        "id": "e04615c5f00f6135bfcb6c7792ef45c2ae0cb293335f226007d52046c7facb54",
+        "url": "https://picsum.photos/1115/560?random=6",
+        "alt": "Featured image for: Advanced Beginner Beach Resort Guide Techniques",
+        "width": 1115,
+        "height": 560
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-beach-resort-guide",
+      "title": "The Ultimate Guide to Advanced Beach Resort Guide",
+      "category": "advanced-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.815693",
+      "image": {
+        "id": "66a336c006931f85e9c6763ec99868207301ff2cf6909aea7d255690569d39e5",
+        "url": "https://picsum.photos/858/498?random=784",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Beach Resort Guide",
+        "width": 858,
+        "height": 498
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-beach-resort-guide-everything-you-need-to-know",
+      "title": "Advanced Beach Resort Guide: Everything You Need to Know",
+      "category": "advanced-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.815760",
+      "image": {
+        "id": "e1b3866d5c2b430675565a246731df0efd4316bff1e7f9d4a69c914b2dc35661",
+        "url": "https://picsum.photos/931/588?random=205",
+        "alt": "Featured image for: Advanced Beach Resort Guide: Everything You Need to Know",
+        "width": 931,
+        "height": 588
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-beach-resort-guide",
+      "title": "Understanding Advanced Beach Resort Guide",
+      "category": "advanced-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.815838",
+      "image": {
+        "id": "588dd059b3f02a7ab933150d7e061890735891be42f7ab3404a0fd5979d73e41",
+        "url": "https://picsum.photos/1016/455?random=12",
+        "alt": "Featured image for: Understanding Advanced Beach Resort Guide",
+        "width": 1016,
+        "height": 455
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-beach-resort-guide-tips-and-best-practices",
+      "title": "Advanced Beach Resort Guide Tips and Best Practices",
+      "category": "advanced-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.815906",
+      "image": {
+        "id": "4142d0cf7515839669a236f3a38d0f5755568e0a381203dd6f2737c0f7ebdf4c",
+        "url": "https://picsum.photos/907/501?random=436",
+        "alt": "Featured image for: Advanced Beach Resort Guide Tips and Best Practices",
+        "width": 907,
+        "height": 501
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-beach-resort-guide",
+      "title": "The History of Advanced Beach Resort Guide",
+      "category": "advanced-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.816011",
+      "image": {
+        "id": "e1b3866d5c2b430675565a246731df0efd4316bff1e7f9d4a69c914b2dc35661",
+        "url": "https://picsum.photos/931/588?random=205",
+        "alt": "Featured image for: The History of Advanced Beach Resort Guide",
+        "width": 931,
+        "height": 588
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-beach-resort-guide-in-2026-current-trends",
+      "title": "Advanced Beach Resort Guide in 2026: Current Trends",
+      "category": "advanced-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.816115",
+      "image": {
+        "id": "4142d0cf7515839669a236f3a38d0f5755568e0a381203dd6f2737c0f7ebdf4c",
+        "url": "https://picsum.photos/907/501?random=436",
+        "alt": "Featured image for: Advanced Beach Resort Guide in 2026: Current Trends",
+        "width": 907,
+        "height": 501
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-beach-resort-guide",
+      "title": "Future of Advanced Beach Resort Guide",
+      "category": "advanced-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.816197",
+      "image": {
+        "id": "66a336c006931f85e9c6763ec99868207301ff2cf6909aea7d255690569d39e5",
+        "url": "https://picsum.photos/858/498?random=784",
+        "alt": "Featured image for: Future of Advanced Beach Resort Guide",
+        "width": 858,
+        "height": 498
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-beach-resort-guide",
+      "title": "Common Mistakes in Advanced Beach Resort Guide",
+      "category": "advanced-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.816269",
+      "image": {
+        "id": "66a336c006931f85e9c6763ec99868207301ff2cf6909aea7d255690569d39e5",
+        "url": "https://picsum.photos/858/498?random=784",
+        "alt": "Featured image for: Common Mistakes in Advanced Beach Resort Guide",
+        "width": 858,
+        "height": 498
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-beach-resort-guide-for-beginners",
+      "title": "Advanced Beach Resort Guide for Beginners",
+      "category": "advanced-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.816337",
+      "image": {
+        "id": "4142d0cf7515839669a236f3a38d0f5755568e0a381203dd6f2737c0f7ebdf4c",
+        "url": "https://picsum.photos/907/501?random=436",
+        "alt": "Featured image for: Advanced Beach Resort Guide for Beginners",
+        "width": 907,
+        "height": 501
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-beach-resort-guide-techniques",
+      "title": "Advanced Advanced Beach Resort Guide Techniques",
+      "category": "advanced-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.816405",
+      "image": {
+        "id": "588dd059b3f02a7ab933150d7e061890735891be42f7ab3404a0fd5979d73e41",
+        "url": "https://picsum.photos/1016/455?random=12",
+        "alt": "Featured image for: Advanced Advanced Beach Resort Guide Techniques",
+        "width": 1016,
+        "height": 455
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-beach-resort-guide-tips",
+      "title": "The Ultimate Guide to Beach Resort Guide Tips",
+      "category": "tips-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.817054",
+      "image": {
+        "id": "66a336c006931f85e9c6763ec99868207301ff2cf6909aea7d255690569d39e5",
+        "url": "https://picsum.photos/858/498?random=784",
+        "alt": "Featured image for: The Ultimate Guide to Beach Resort Guide Tips",
+        "width": 858,
+        "height": 498
+      }
+    },
+    {
+      "id": 38,
+      "slug": "beach-resort-guide-tips-everything-you-need-to-know",
+      "title": "Beach Resort Guide Tips: Everything You Need to Know",
+      "category": "tips-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.817179",
+      "image": {
+        "id": "4142d0cf7515839669a236f3a38d0f5755568e0a381203dd6f2737c0f7ebdf4c",
+        "url": "https://picsum.photos/907/501?random=436",
+        "alt": "Featured image for: Beach Resort Guide Tips: Everything You Need to Know",
+        "width": 907,
+        "height": 501
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-beach-resort-guide-tips",
+      "title": "Understanding Beach Resort Guide Tips",
+      "category": "tips-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.817242",
+      "image": {
+        "id": "e1b3866d5c2b430675565a246731df0efd4316bff1e7f9d4a69c914b2dc35661",
+        "url": "https://picsum.photos/931/588?random=205",
+        "alt": "Featured image for: Understanding Beach Resort Guide Tips",
+        "width": 931,
+        "height": 588
+      }
+    },
+    {
+      "id": 40,
+      "slug": "beach-resort-guide-tips-tips-and-best-practices",
+      "title": "Beach Resort Guide Tips Tips and Best Practices",
+      "category": "tips-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.817342",
+      "image": {
+        "id": "e04615c5f00f6135bfcb6c7792ef45c2ae0cb293335f226007d52046c7facb54",
+        "url": "https://picsum.photos/1115/560?random=6",
+        "alt": "Featured image for: Beach Resort Guide Tips Tips and Best Practices",
+        "width": 1115,
+        "height": 560
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-beach-resort-guide-tips",
+      "title": "The History of Beach Resort Guide Tips",
+      "category": "tips-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.817413",
+      "image": {
+        "id": "588dd059b3f02a7ab933150d7e061890735891be42f7ab3404a0fd5979d73e41",
+        "url": "https://picsum.photos/1016/455?random=12",
+        "alt": "Featured image for: The History of Beach Resort Guide Tips",
+        "width": 1016,
+        "height": 455
+      }
+    },
+    {
+      "id": 42,
+      "slug": "beach-resort-guide-tips-in-2026-current-trends",
+      "title": "Beach Resort Guide Tips in 2026: Current Trends",
+      "category": "tips-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.817474",
+      "image": {
+        "id": "e1b3866d5c2b430675565a246731df0efd4316bff1e7f9d4a69c914b2dc35661",
+        "url": "https://picsum.photos/931/588?random=205",
+        "alt": "Featured image for: Beach Resort Guide Tips in 2026: Current Trends",
+        "width": 931,
+        "height": 588
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-beach-resort-guide-tips",
+      "title": "Future of Beach Resort Guide Tips",
+      "category": "tips-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.817532",
+      "image": {
+        "id": "588dd059b3f02a7ab933150d7e061890735891be42f7ab3404a0fd5979d73e41",
+        "url": "https://picsum.photos/1016/455?random=12",
+        "alt": "Featured image for: Future of Beach Resort Guide Tips",
+        "width": 1016,
+        "height": 455
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-beach-resort-guide-tips",
+      "title": "Common Mistakes in Beach Resort Guide Tips",
+      "category": "tips-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.817590",
+      "image": {
+        "id": "e04615c5f00f6135bfcb6c7792ef45c2ae0cb293335f226007d52046c7facb54",
+        "url": "https://picsum.photos/1115/560?random=6",
+        "alt": "Featured image for: Common Mistakes in Beach Resort Guide Tips",
+        "width": 1115,
+        "height": 560
+      }
+    },
+    {
+      "id": 45,
+      "slug": "beach-resort-guide-tips-for-beginners",
+      "title": "Beach Resort Guide Tips for Beginners",
+      "category": "tips-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.817650",
+      "image": {
+        "id": "66a336c006931f85e9c6763ec99868207301ff2cf6909aea7d255690569d39e5",
+        "url": "https://picsum.photos/858/498?random=784",
+        "alt": "Featured image for: Beach Resort Guide Tips for Beginners",
+        "width": 858,
+        "height": 498
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-beach-resort-guide-tips-techniques",
+      "title": "Advanced Beach Resort Guide Tips Techniques",
+      "category": "tips-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.817707",
+      "image": {
+        "id": "e04615c5f00f6135bfcb6c7792ef45c2ae0cb293335f226007d52046c7facb54",
+        "url": "https://picsum.photos/1115/560?random=6",
+        "alt": "Featured image for: Advanced Beach Resort Guide Tips Techniques",
+        "width": 1115,
+        "height": 560
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-beach-resort-guide-history",
+      "title": "The Ultimate Guide to Beach Resort Guide History",
+      "category": "history-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.818237",
+      "image": {
+        "id": "e04615c5f00f6135bfcb6c7792ef45c2ae0cb293335f226007d52046c7facb54",
+        "url": "https://picsum.photos/1115/560?random=6",
+        "alt": "Featured image for: The Ultimate Guide to Beach Resort Guide History",
+        "width": 1115,
+        "height": 560
+      }
+    },
+    {
+      "id": 56,
+      "slug": "beach-resort-guide-history-everything-you-need-to-know",
+      "title": "Beach Resort Guide History: Everything You Need to Know",
+      "category": "history-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.818293",
+      "image": {
+        "id": "4142d0cf7515839669a236f3a38d0f5755568e0a381203dd6f2737c0f7ebdf4c",
+        "url": "https://picsum.photos/907/501?random=436",
+        "alt": "Featured image for: Beach Resort Guide History: Everything You Need to Know",
+        "width": 907,
+        "height": 501
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-beach-resort-guide-history",
+      "title": "Understanding Beach Resort Guide History",
+      "category": "history-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.818353",
+      "image": {
+        "id": "4142d0cf7515839669a236f3a38d0f5755568e0a381203dd6f2737c0f7ebdf4c",
+        "url": "https://picsum.photos/907/501?random=436",
+        "alt": "Featured image for: Understanding Beach Resort Guide History",
+        "width": 907,
+        "height": 501
+      }
+    },
+    {
+      "id": 58,
+      "slug": "beach-resort-guide-history-tips-and-best-practices",
+      "title": "Beach Resort Guide History Tips and Best Practices",
+      "category": "history-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.818410",
+      "image": {
+        "id": "66a336c006931f85e9c6763ec99868207301ff2cf6909aea7d255690569d39e5",
+        "url": "https://picsum.photos/858/498?random=784",
+        "alt": "Featured image for: Beach Resort Guide History Tips and Best Practices",
+        "width": 858,
+        "height": 498
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-beach-resort-guide-history",
+      "title": "The History of Beach Resort Guide History",
+      "category": "history-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.818467",
+      "image": {
+        "id": "4142d0cf7515839669a236f3a38d0f5755568e0a381203dd6f2737c0f7ebdf4c",
+        "url": "https://picsum.photos/907/501?random=436",
+        "alt": "Featured image for: The History of Beach Resort Guide History",
+        "width": 907,
+        "height": 501
+      }
+    },
+    {
+      "id": 60,
+      "slug": "beach-resort-guide-history-in-2026-current-trends",
+      "title": "Beach Resort Guide History in 2026: Current Trends",
+      "category": "history-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.818523",
+      "image": {
+        "id": "588dd059b3f02a7ab933150d7e061890735891be42f7ab3404a0fd5979d73e41",
+        "url": "https://picsum.photos/1016/455?random=12",
+        "alt": "Featured image for: Beach Resort Guide History in 2026: Current Trends",
+        "width": 1016,
+        "height": 455
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-beach-resort-guide-history",
+      "title": "Future of Beach Resort Guide History",
+      "category": "history-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.818584",
+      "image": {
+        "id": "e04615c5f00f6135bfcb6c7792ef45c2ae0cb293335f226007d52046c7facb54",
+        "url": "https://picsum.photos/1115/560?random=6",
+        "alt": "Featured image for: Future of Beach Resort Guide History",
+        "width": 1115,
+        "height": 560
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-beach-resort-guide-history",
+      "title": "Common Mistakes in Beach Resort Guide History",
+      "category": "history-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.818645",
+      "image": {
+        "id": "e1b3866d5c2b430675565a246731df0efd4316bff1e7f9d4a69c914b2dc35661",
+        "url": "https://picsum.photos/931/588?random=205",
+        "alt": "Featured image for: Common Mistakes in Beach Resort Guide History",
+        "width": 931,
+        "height": 588
+      }
+    },
+    {
+      "id": 63,
+      "slug": "beach-resort-guide-history-for-beginners",
+      "title": "Beach Resort Guide History for Beginners",
+      "category": "history-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.818707",
+      "image": {
+        "id": "66a336c006931f85e9c6763ec99868207301ff2cf6909aea7d255690569d39e5",
+        "url": "https://picsum.photos/858/498?random=784",
+        "alt": "Featured image for: Beach Resort Guide History for Beginners",
+        "width": 858,
+        "height": 498
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-beach-resort-guide-history-techniques",
+      "title": "Advanced Beach Resort Guide History Techniques",
+      "category": "history-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.818767",
+      "image": {
+        "id": "e04615c5f00f6135bfcb6c7792ef45c2ae0cb293335f226007d52046c7facb54",
+        "url": "https://picsum.photos/1115/560?random=6",
+        "alt": "Featured image for: Advanced Beach Resort Guide History Techniques",
+        "width": 1115,
+        "height": 560
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-beach-resort-guide",
+      "title": "The Ultimate Guide to Trending Beach Resort Guide",
+      "category": "trending-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.819573",
+      "image": {
+        "id": "66a336c006931f85e9c6763ec99868207301ff2cf6909aea7d255690569d39e5",
+        "url": "https://picsum.photos/858/498?random=784",
+        "alt": "Featured image for: The Ultimate Guide to Trending Beach Resort Guide",
+        "width": 858,
+        "height": 498
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-beach-resort-guide-everything-you-need-to-know",
+      "title": "Trending Beach Resort Guide: Everything You Need to Know",
+      "category": "trending-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.819630",
+      "image": {
+        "id": "4142d0cf7515839669a236f3a38d0f5755568e0a381203dd6f2737c0f7ebdf4c",
+        "url": "https://picsum.photos/907/501?random=436",
+        "alt": "Featured image for: Trending Beach Resort Guide: Everything You Need to Know",
+        "width": 907,
+        "height": 501
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-beach-resort-guide",
+      "title": "Understanding Trending Beach Resort Guide",
+      "category": "trending-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.819687",
+      "image": {
+        "id": "588dd059b3f02a7ab933150d7e061890735891be42f7ab3404a0fd5979d73e41",
+        "url": "https://picsum.photos/1016/455?random=12",
+        "alt": "Featured image for: Understanding Trending Beach Resort Guide",
+        "width": 1016,
+        "height": 455
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-beach-resort-guide-tips-and-best-practices",
+      "title": "Trending Beach Resort Guide Tips and Best Practices",
+      "category": "trending-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.819744",
+      "image": {
+        "id": "e04615c5f00f6135bfcb6c7792ef45c2ae0cb293335f226007d52046c7facb54",
+        "url": "https://picsum.photos/1115/560?random=6",
+        "alt": "Featured image for: Trending Beach Resort Guide Tips and Best Practices",
+        "width": 1115,
+        "height": 560
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-beach-resort-guide",
+      "title": "The History of Trending Beach Resort Guide",
+      "category": "trending-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.819805",
+      "image": {
+        "id": "588dd059b3f02a7ab933150d7e061890735891be42f7ab3404a0fd5979d73e41",
+        "url": "https://picsum.photos/1016/455?random=12",
+        "alt": "Featured image for: The History of Trending Beach Resort Guide",
+        "width": 1016,
+        "height": 455
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-beach-resort-guide-in-2026-current-trends",
+      "title": "Trending Beach Resort Guide in 2026: Current Trends",
+      "category": "trending-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.819863",
+      "image": {
+        "id": "e1b3866d5c2b430675565a246731df0efd4316bff1e7f9d4a69c914b2dc35661",
+        "url": "https://picsum.photos/931/588?random=205",
+        "alt": "Featured image for: Trending Beach Resort Guide in 2026: Current Trends",
+        "width": 931,
+        "height": 588
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-beach-resort-guide",
+      "title": "Future of Trending Beach Resort Guide",
+      "category": "trending-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.819918",
+      "image": {
+        "id": "e04615c5f00f6135bfcb6c7792ef45c2ae0cb293335f226007d52046c7facb54",
+        "url": "https://picsum.photos/1115/560?random=6",
+        "alt": "Featured image for: Future of Trending Beach Resort Guide",
+        "width": 1115,
+        "height": 560
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-beach-resort-guide",
+      "title": "Common Mistakes in Trending Beach Resort Guide",
+      "category": "trending-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.819973",
+      "image": {
+        "id": "588dd059b3f02a7ab933150d7e061890735891be42f7ab3404a0fd5979d73e41",
+        "url": "https://picsum.photos/1016/455?random=12",
+        "alt": "Featured image for: Common Mistakes in Trending Beach Resort Guide",
+        "width": 1016,
+        "height": 455
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-beach-resort-guide-for-beginners",
+      "title": "Trending Beach Resort Guide for Beginners",
+      "category": "trending-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.820030",
+      "image": {
+        "id": "e04615c5f00f6135bfcb6c7792ef45c2ae0cb293335f226007d52046c7facb54",
+        "url": "https://picsum.photos/1115/560?random=6",
+        "alt": "Featured image for: Trending Beach Resort Guide for Beginners",
+        "width": 1115,
+        "height": 560
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-beach-resort-guide-techniques",
+      "title": "Advanced Trending Beach Resort Guide Techniques",
+      "category": "trending-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.820085",
+      "image": {
+        "id": "e1b3866d5c2b430675565a246731df0efd4316bff1e7f9d4a69c914b2dc35661",
+        "url": "https://picsum.photos/931/588?random=205",
+        "alt": "Featured image for: Advanced Trending Beach Resort Guide Techniques",
+        "width": 931,
+        "height": 588
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-beach-resort-guide-tutorials",
+      "title": "The Ultimate Guide to Beach Resort Guide Tutorials",
+      "category": "tutorials-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.820947",
+      "image": {
+        "id": "588dd059b3f02a7ab933150d7e061890735891be42f7ab3404a0fd5979d73e41",
+        "url": "https://picsum.photos/1016/455?random=12",
+        "alt": "Featured image for: The Ultimate Guide to Beach Resort Guide Tutorials",
+        "width": 1016,
+        "height": 455
+      }
+    },
+    {
+      "id": 92,
+      "slug": "beach-resort-guide-tutorials-everything-you-need-to-know",
+      "title": "Beach Resort Guide Tutorials: Everything You Need to Know",
+      "category": "tutorials-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.821004",
+      "image": {
+        "id": "66a336c006931f85e9c6763ec99868207301ff2cf6909aea7d255690569d39e5",
+        "url": "https://picsum.photos/858/498?random=784",
+        "alt": "Featured image for: Beach Resort Guide Tutorials: Everything You Need to Know",
+        "width": 858,
+        "height": 498
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-beach-resort-guide-tutorials",
+      "title": "Understanding Beach Resort Guide Tutorials",
+      "category": "tutorials-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.821070",
+      "image": {
+        "id": "588dd059b3f02a7ab933150d7e061890735891be42f7ab3404a0fd5979d73e41",
+        "url": "https://picsum.photos/1016/455?random=12",
+        "alt": "Featured image for: Understanding Beach Resort Guide Tutorials",
+        "width": 1016,
+        "height": 455
+      }
+    },
+    {
+      "id": 94,
+      "slug": "beach-resort-guide-tutorials-tips-and-best-practices",
+      "title": "Beach Resort Guide Tutorials Tips and Best Practices",
+      "category": "tutorials-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.821128",
+      "image": {
+        "id": "e04615c5f00f6135bfcb6c7792ef45c2ae0cb293335f226007d52046c7facb54",
+        "url": "https://picsum.photos/1115/560?random=6",
+        "alt": "Featured image for: Beach Resort Guide Tutorials Tips and Best Practices",
+        "width": 1115,
+        "height": 560
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-beach-resort-guide-tutorials",
+      "title": "The History of Beach Resort Guide Tutorials",
+      "category": "tutorials-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.821187",
+      "image": {
+        "id": "4142d0cf7515839669a236f3a38d0f5755568e0a381203dd6f2737c0f7ebdf4c",
+        "url": "https://picsum.photos/907/501?random=436",
+        "alt": "Featured image for: The History of Beach Resort Guide Tutorials",
+        "width": 907,
+        "height": 501
+      }
+    },
+    {
+      "id": 96,
+      "slug": "beach-resort-guide-tutorials-in-2026-current-trends",
+      "title": "Beach Resort Guide Tutorials in 2026: Current Trends",
+      "category": "tutorials-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.821242",
+      "image": {
+        "id": "66a336c006931f85e9c6763ec99868207301ff2cf6909aea7d255690569d39e5",
+        "url": "https://picsum.photos/858/498?random=784",
+        "alt": "Featured image for: Beach Resort Guide Tutorials in 2026: Current Trends",
+        "width": 858,
+        "height": 498
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-beach-resort-guide-tutorials",
+      "title": "Future of Beach Resort Guide Tutorials",
+      "category": "tutorials-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.821300",
+      "image": {
+        "id": "4142d0cf7515839669a236f3a38d0f5755568e0a381203dd6f2737c0f7ebdf4c",
+        "url": "https://picsum.photos/907/501?random=436",
+        "alt": "Featured image for: Future of Beach Resort Guide Tutorials",
+        "width": 907,
+        "height": 501
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-beach-resort-guide-tutorials",
+      "title": "Common Mistakes in Beach Resort Guide Tutorials",
+      "category": "tutorials-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.821354",
+      "image": {
+        "id": "4142d0cf7515839669a236f3a38d0f5755568e0a381203dd6f2737c0f7ebdf4c",
+        "url": "https://picsum.photos/907/501?random=436",
+        "alt": "Featured image for: Common Mistakes in Beach Resort Guide Tutorials",
+        "width": 907,
+        "height": 501
+      }
+    },
+    {
+      "id": 99,
+      "slug": "beach-resort-guide-tutorials-for-beginners",
+      "title": "Beach Resort Guide Tutorials for Beginners",
+      "category": "tutorials-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.821409",
+      "image": {
+        "id": "e04615c5f00f6135bfcb6c7792ef45c2ae0cb293335f226007d52046c7facb54",
+        "url": "https://picsum.photos/1115/560?random=6",
+        "alt": "Featured image for: Beach Resort Guide Tutorials for Beginners",
+        "width": 1115,
+        "height": 560
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-beach-resort-guide-tutorials-techniques",
+      "title": "Advanced Beach Resort Guide Tutorials Techniques",
+      "category": "tutorials-beach-resort-guide",
+      "created_at": "2026-06-02T19:22:14.821464",
+      "image": {
+        "id": "e04615c5f00f6135bfcb6c7792ef45c2ae0cb293335f226007d52046c7facb54",
+        "url": "https://picsum.photos/1115/560?random=6",
+        "alt": "Featured image for: Advanced Beach Resort Guide Tutorials Techniques",
+        "width": 1115,
+        "height": 560
+      }
+    }
+  ],
+  "categories": [
+    "beginner-beach-resort-guide",
+    "advanced-beach-resort-guide",
+    "tips-beach-resort-guide",
+    "history-beach-resort-guide",
+    "trending-beach-resort-guide",
+    "tutorials-beach-resort-guide"
+  ]
+}
